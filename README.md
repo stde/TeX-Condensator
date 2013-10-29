@@ -9,5 +9,5 @@ in Cognitive Science.
 
 Authors:
 Eduardo Aponte, Kimon Batoulis,
-Stefan Depeweg, Steen Vogel
+Stefan Depeweg, Steffen Vogel
 
